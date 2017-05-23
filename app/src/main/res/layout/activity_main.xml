@@ -12,21 +12,19 @@
         android:id="@+id/but1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="#ffb7b7"
         android:text="배경색 변경" />
 
     <Button
         android:id="@+id/but2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="#aadded"
         android:text="이미지 변경" />
 
     <ImageView
         android:id="@+id/img1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/Jimini"
+        android:src="@drawable/jimini"
         />
 
 </LinearLayout>
